@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: 湖北工业大学
     url: ""
 superuser: true
 status:
